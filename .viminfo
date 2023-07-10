@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1688971085,,"x"
+|2,0,1688972510,,"x"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,34 @@
 # Registers:
 
 # File marks:
-'0  62  0  ~/node-hello-k8-chart/values.yaml
-|4,48,62,0,1688971085,"~/node-hello-k8-chart/values.yaml"
-'1  1  0  ~/node-hello-k8-chart/Chart.yaml
-|4,49,1,0,1688971055,"~/node-hello-k8-chart/Chart.yaml"
-'2  10  20  ~/Dockerfile
-|4,50,10,20,1688970118,"~/Dockerfile"
+'0  1  0  ~/.ssh/id_rsa.pub
+|4,48,1,0,1688972510,"~/.ssh/id_rsa.pub"
+'1  62  0  ~/node-hello-k8-chart/values.yaml
+|4,49,62,0,1688971085,"~/node-hello-k8-chart/values.yaml"
+'2  1  0  ~/node-hello-k8-chart/Chart.yaml
+|4,50,1,0,1688971055,"~/node-hello-k8-chart/Chart.yaml"
+'3  10  20  ~/Dockerfile
+|4,51,10,20,1688970118,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  1  0  ~/.ssh/id_rsa.pub
+|4,39,1,0,1688972510,"~/.ssh/id_rsa.pub"
 -'  62  0  ~/node-hello-k8-chart/values.yaml
 |4,39,62,0,1688971085,"~/node-hello-k8-chart/values.yaml"
+-'  62  0  ~/node-hello-k8-chart/values.yaml
+|4,39,62,0,1688971085,"~/node-hello-k8-chart/values.yaml"
+-'  1  0  ~/node-hello-k8-chart/values.yaml
+|4,39,1,0,1688971065,"~/node-hello-k8-chart/values.yaml"
 -'  1  0  ~/node-hello-k8-chart/values.yaml
 |4,39,1,0,1688971065,"~/node-hello-k8-chart/values.yaml"
 -'  1  0  ~/node-hello-k8-chart/Chart.yaml
 |4,39,1,0,1688971055,"~/node-hello-k8-chart/Chart.yaml"
 -'  1  0  ~/node-hello-k8-chart/Chart.yaml
 |4,39,1,0,1688971055,"~/node-hello-k8-chart/Chart.yaml"
+-'  1  0  ~/node-hello-k8-chart/Chart.yaml
+|4,39,1,0,1688971055,"~/node-hello-k8-chart/Chart.yaml"
+-'  1  0  ~/node-hello-k8-chart/Chart.yaml
+|4,39,1,0,1688971055,"~/node-hello-k8-chart/Chart.yaml"
 -'  10  20  ~/Dockerfile
 |4,39,10,20,1688970118,"~/Dockerfile"
 -'  10  20  ~/Dockerfile
@@ -49,6 +61,22 @@
 |4,39,10,20,1688970118,"~/Dockerfile"
 -'  10  20  ~/Dockerfile
 |4,39,10,20,1688970118,"~/Dockerfile"
+-'  10  20  ~/Dockerfile
+|4,39,10,20,1688970118,"~/Dockerfile"
+-'  10  20  ~/Dockerfile
+|4,39,10,20,1688970118,"~/Dockerfile"
+-'  10  20  ~/Dockerfile
+|4,39,10,20,1688970118,"~/Dockerfile"
+-'  10  20  ~/Dockerfile
+|4,39,10,20,1688970118,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1688969935,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1688969935,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1688969935,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1688969935,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1688969935,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
@@ -59,6 +87,10 @@
 |4,39,1,0,1688969935,"~/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/.ssh/id_rsa.pub
+	*	1688972507	0
+	"	1	0
 
 > ~/node-hello-k8-chart/values.yaml
 	*	1688971084	0
